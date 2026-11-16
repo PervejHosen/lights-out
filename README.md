@@ -67,7 +67,8 @@ python 05_review/verify.py
 ## Credits and corrections
 
 Data: Power Grid Company of Bangladesh (PGCB) and Bangladesh Power Development Board (BPDB), via the PGCB portal and
-Mendeley Data. Weather data by Open-Meteo.com (CC BY 4.0).
+Mendeley Data. Weather data by Open-Meteo.com (CC BY 4.0). Code under the MIT licence (`LICENSE`); the data stays with
+its sources, so credit them when you reuse it.
 
 Spotted a number or formula that looks wrong? Open an issue or message me through pervejhosen.com. Corrections are
 welcome and will be credited.

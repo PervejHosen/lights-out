@@ -1,0 +1,11 @@
+01_data/raw/**/*.csv
+01_data/raw/**/*.xlsx
+01_data/raw/**/*.zip
+!01_data/raw/pgcb_portal_2026/*.csv
+01_data/processed/**
+!01_data/processed/README.md
+*.duckdb
+*.duckdb.wal
+__pycache__/
+.ipynb_checkpoints/
+.env

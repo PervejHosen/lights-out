@@ -1,0 +1,49 @@
+id,claim,published,recomputed,tolerance,unit,check
+F01,"2026 lost energy, hours 1 to 23, to 15 Nov",3674.0,3674.19,1.0,GWh,pass
+F02,2026 against 2023,1.4,1.417,0.05,x,pass
+F02b,2026 is the largest year since 2015 (1 = yes),1.0,1.0,0.0,,pass
+F03,Days in 2026 with any cut,256.0,256.0,2.0,days,pass
+F04,Highest hourly cut in 2026,3757.0,3757.0,0.0,MW,pass
+F04b,Highest 2026 hour falls on 10 Aug (day of month),10.0,10.0,0.0,,pass
+F05,August 2026 lost energy (all hours),1164.0,1163.723,2.0,GWh,pass
+F06a,"Jun to Sep 2026 average cut, midnight to 3 am",1448.0,1448.221,10.0,MW,pass
+F06b,"Jun to Sep 2026 average cut, 6 pm to 10 pm",920.0,920.203,10.0,MW,pass
+F07,Share of 2026 lost energy after dark (6 pm to 7 am),0.61,0.613,0.01,,pass
+F07b,"Same share, using 'solar under 50 MW' as dark",0.61,0.617,0.06,,pass
+F08,Highest solar output in 2026,796.0,796.0,0.0,MW,pass
+F09a,"Mymensingh share of zone load shed, 2026",0.284,0.284,0.005,,pass
+F09b,"Mymensingh share of zone demand, 2026",0.084,0.084,0.005,,pass
+F09c,"Dhaka share of zone load shed, 2026",0.161,0.161,0.005,,pass
+F09d,"Dhaka share of zone demand, 2026",0.362,0.362,0.005,,pass
+F09e,Mymensingh carries more than its share every year 2022 to 2026 (lowest ratio),2.8,2.795,0.1,x,pass
+F18a,On light days the hour most often cut is 6 pm,18.0,18.0,0.0,,pass
+F18b,Share of light days with a cut at 6 pm,0.76,0.765,0.02,,pass
+F19a,"Monsoon 2026, early shift 6 am to 2 pm, average cut",722.0,722.256,5.0,MW,pass
+F19b,"Monsoon 2026, night shift 10 pm to 6 am, average cut",1210.0,1210.139,5.0,MW,pass
+F10,"After a day over 1,500 MW, next day also over 1,500 MW (year = 2026)",0.85,0.853,0.02,,pass
+F10b,"After a day over 1,500 MW, next day also over 1,500 MW (year >= 2022)",0.74,0.738,0.02,,pass
+F11a,"Change in average cut, Aug 2026 vs 2025",1523.0,1523.16,3.0,MW,pass
+F11b,Identity holds: change in cut = change in demand minus change in generation (gap),0.0,0.0,1.0,MW,pass
+F11c,Gas fell,1072.0,1072.261,3.0,MW,pass
+F12a,"Change in average cut, Aug to Sep 2026 vs 2025",1251.0,1251.311,3.0,MW,pass
+F12b,Identity holds: change in cut = change in demand minus change in generation (gap),0.0,0.0,1.0,MW,pass
+F12c,Gas fell,761.0,760.612,3.0,MW,pass
+F13,Peak demand per °C 'feels like' above 30,272.0,271.858,2.0,MW,pass
+F13b,August 2026 only slightly hotter than August 2025 (difference in feels-like peak),0.7,0.664,0.1,°C,pass
+F13c,"Reported peak above weather-expected peak, Aug to Sep 2026",2000.0,2088.713,150.0,MW,pass
+F13d,"Served peak close to weather-expected peak, Aug to Sep 2026 (served minus expected)",300.0,321.667,250.0,MW,pass
+F14,"Closing rules beyond normal swings, with weather out (count)",0.0,0.0,0.0,,pass
+F15a,Forecast average miss (blend),623.0,623.697,2.0,MW,pass
+F15b,Planner's 4-week average miss,648.0,647.519,2.0,MW,pass
+F15c,Share of 500 MW+ hours the blend flagged,0.82,0.825,0.01,,pass
+F15d,80% range held the actual value,0.81,0.81,0.01,,pass
+F15e,In the 2026 crisis the 4-week average beat the blend (1 = yes),1.0,1.0,0.0,,pass
+F16a,"1,000 MW round the clock removes this share of 2026 lost energy",0.63,0.626,0.02,,pass
+F16b_low,"100 mmcfd of gas removes (low conversion, 3.6 MW per mmcfd)",,0.312,,share,range
+F16b_central,"100 mmcfd of gas removes (central conversion, 4.5 MW per mmcfd)",,0.369,,share,range
+F16b_high,"100 mmcfd of gas removes (high conversion, 5.7 MW per mmcfd)",,0.434,,share,range
+F16c,100 mmcfd removes (central),0.37,0.369,0.01,,pass
+F17a,"Oil at 10 pm, Jun to Oct 2026",2840.0,2839.974,30.0,MW,pass
+F17b,"Oil at 5 am, Jun to Oct 2026",1345.0,1344.784,30.0,MW,pass
+F17c,"Demand stays above 15,000 MW until 3 am (lowest of 0 to 3 am)",15138.0,15137.961,30.0,MW,pass
+F17d,"Gas stays flat overnight (max minus min, 10 pm to 5 am)",0.0,40.477,200.0,MW,pass

@@ -1,0 +1,47 @@
+CHANGELOG
+
+Initial Release — 2026
+
+DATASET COVERAGE
+
+Temporal coverage:
+November 21, 2019 – August 3, 2026
+
+Records:
+2,428
+
+Variables:
+45
+
+
+CHANGES AND ADDITIONS
+
+- Extended the temporal coverage beyond the previously published
+  2019–2024 dataset.
+
+- Retained the 2019–2024 records from Hossain et al. (2025),
+  reused under the CC BY 4.0 licence.
+
+- Independently collected additional daily electricity records
+  after December 30, 2024 from the Bangladesh Power Development
+  Board (BPDB) Daily Generation Archive.
+
+- Integrated the additional records with the existing dataset
+  structure.
+
+- Adapted the extraction procedure for selected variables affected
+  by changes in the BPDB report format.
+
+- Updated the documentation to distinguish the original 2019–2024
+  records from the newly collected post-2024 records.
+
+- Added attribution and citation information for the original dataset.
+
+
+ORIGINAL DATASET
+
+Hossain, Md Ikrama; Nafs, Tasnia; Yeaser, Sakif (2025).
+“Structured Dataset of Daily Electricity Demand, Generation,
+Load Shedding, and Supply Constraints in Bangladesh (2019–2024).”
+Mendeley Data, V1.
+DOI: 10.17632/x7r7wdb39k.1

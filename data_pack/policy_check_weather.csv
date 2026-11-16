@@ -1,0 +1,8 @@
+rule_date,event,closing_hour,raw_mw,weather_adjusted_mw,noise_low_mw,noise_high_mw,beyond_noise
+2026-04-02,Shop owners' association: shops and malls close by 8 pm (voluntary),20,-439.89714964925173,-510.90598334476937,-643.0286604193026,566.5191616516157,False
+2026-04-03,Government: shops and malls close by 6 pm,18,-245.625002698274,-237.72978563231382,-643.0286604193026,566.5191616516157,False
+2026-04-05,Closing relaxed to 7 pm; government offices 9 am to 4 pm,19,-216.8650496034703,-141.2731163790677,-643.0286604193026,566.5191616516157,False
+2026-05-12,Closing extended to 10 pm until Eid-ul-Azha,22,74.9296379612364,-152.98021175266283,-643.0286604193026,566.5191616516157,False
+2026-06-01,Markets and malls closed after 7 pm; decorative lighting off by 8 pm,19,-164.0858096901053,-224.38177346183977,-643.0286604193026,566.5191616516157,False
+2026-06-11,Power Division: markets may open until 9 pm,21,523.9825639245975,532.9558715046326,-643.0286604193026,566.5191616516157,False
+2026-08-13,"Shops, markets and malls open 11 am to 8 pm; billboards and decorative lights off by 7 pm",20,193.509226686908,166.7330460417523,-643.0286604193026,566.5191616516157,False

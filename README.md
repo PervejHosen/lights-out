@@ -4,8 +4,10 @@ An independent analysis of Bangladesh's 2026 load shedding: when power was cut, 
 what the shop closing rules could and could not show, and what would have helped. Built from the grid's own public
 hourly data, 2015 to 2026.
 
-Pervej Hosen, independent analysis, using public PGCB and BPDB data. The interactive report is on
-[pervejhosen.com](https://pervejhosen.com).
+Pervej Hosen, independent analysis, using public PGCB and BPDB data.
+
+**[Open the interactive report](https://app.powerbi.com/view?r=eyJrIjoiYzE1N2UxZGUtNTkxZC00Y2Y3LTk1ZWMtZWQwM2M5MThjZTIyIiwidCI6IjIyOTM4MjRkLWE0YjQtNDNmMi1hM2ZlLWU0Mjc2YzcxNjY2NCIsImMiOjEwfQ%3D%3D)** (Power BI, 9 pages: Grid Clock, Summary, Why, Policy, Night Gap, This Week,
+What If, My Shift, Guide). More of my work: [pervejhosen.com](https://pervejhosen.com).
 
 ## Findings in brief
 

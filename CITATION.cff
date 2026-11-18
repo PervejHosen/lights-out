@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use this code or data pack, please cite it as below, and also credit the source datasets listed in 10_sources/sources.md."
+title: "Lights Out: an independent analysis of Bangladesh's 2026 load shedding"
+type: software
+authors:
+  - family-names: Hosen
+    given-names: Pervej
+    affiliation: "Independent researcher, Dhaka, Bangladesh"
+    email: hello@pervejhosen.com
+    orcid: "https://orcid.org/0009-0000-7913-3356"
+repository-code: "https://github.com/PervejHosen/lights-out"
+url: "https://pervejhosen.com"
+license: MIT
+version: 1.0.0
+date-released: 2026-11-19
+keywords:
+  - Bangladesh
+  - load shedding
+  - electricity
+  - power grid
+  - PGCB
+  - BPDB
+  - energy policy
+  - open data
+abstract: >-
+  Analysis code, review checks and a small data pack for an independent study of Bangladesh's
+  2026 load shedding, built from public hourly PGCB grid data (2015 to 15 November 2026),
+  BPDB daily zone reports and Open-Meteo weather. Every published finding is recomputed a
+  second way by 05_review/verify.py.
+references:
+  - type: data
+    title: "Hourly Electricity Generation, Demand, Load Shedding, and Fuel Mix Dataset for Bangladesh (2015–2026)"
+    authors:
+      - family-names: Rafi
+        given-names: Rakibul Hasan
+      - family-names: Shekh
+        given-names: Md Ibrahim
+    doi: 10.17632/vpk8spw2mm.1
+    publisher:
+      name: Mendeley Data
+    year: 2026
+  - type: data
+    title: "Extended Bangladesh Electricity Dataset: Daily Demand, Generation, Load Shedding, and Supply Constraints (2019–2026)"
+    authors:
+      - family-names: Rahman
+        given-names: Md. Musfiqur
+      - family-names: Islam
+        given-names: Md Ramim
+    doi: 10.17632/yp5y4thtfm.1
+    publisher:
+      name: Mendeley Data
+    year: 2026

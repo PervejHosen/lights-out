@@ -1,0 +1,45 @@
+{
+  "title": "Lights Out: an independent analysis of Bangladesh's 2026 load shedding",
+  "upload_type": "software",
+  "description": "<p>Analysis code, review checks and a small data pack for an independent study of Bangladesh's 2026 load shedding, built from public hourly PGCB grid data (2015 to 15 November 2026), BPDB daily zone reports and Open-Meteo weather. Every published finding is recomputed a second way by 05_review/verify.py.</p><p>Code is under the MIT licence. The data stays with its sources (PGCB and BPDB via Mendeley Data, CC BY 4.0; Open-Meteo, CC BY 4.0); credit them when you reuse it.</p>",
+  "creators": [
+    {
+      "name": "Hosen, Pervej",
+      "affiliation": "Independent researcher, Dhaka, Bangladesh",
+      "orcid": "0009-0000-7913-3356"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "Bangladesh",
+    "load shedding",
+    "electricity",
+    "power grid",
+    "PGCB",
+    "BPDB",
+    "energy policy",
+    "open data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.17632/vpk8spw2mm.1",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.17632/yp5y4thtfm.1",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://pervejhosen.com",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    }
+  ],
+  "language": "eng"
+}

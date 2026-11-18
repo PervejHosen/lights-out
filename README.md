@@ -1,5 +1,7 @@
 # Lights Out
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24353543.svg)](https://doi.org/10.5281/zenodo.24353543)
+
 An independent analysis of Bangladesh's 2026 load shedding: when power was cut, who carried it, why it happened,
 what the shop closing rules could and could not show, and what would have helped. Built from the grid's own public
 hourly data, 2015 to 2026.
